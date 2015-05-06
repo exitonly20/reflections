@@ -1,0 +1,15 @@
+What happens when you initialize a repository?
+Why do you need to do it?
+
+	1) ".git" file is added in directory
+	2) there is NOT an automatic initial commit during initialization
+	3) existing files are "Untracked files" and can be seen using "git status"
+
+How is the staging area different from the 
+working directory and the repository? 
+What value do you think it offers?
+
+	Staging area allows multiple files to grouped together
+	that are logically part of the same solution.
+
+
