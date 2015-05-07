@@ -12,4 +12,10 @@ What value do you think it offers?
 	Staging area allows multiple files to grouped together
 	that are logically part of the same solution.
 
+How can you use the staging area to make sure 
+you have one commit per logical change?
 
+	Steps:
+	1. Add files using "git add <filename1> <filename2> ..."
+	2. Use "git diff --staged" to see differences between production
+	and the files that are in the staging area
