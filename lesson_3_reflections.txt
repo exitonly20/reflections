@@ -10,4 +10,15 @@ with your remote repository?
 	Don't want to push changes out until I'm ready
 	for everyone else to see them.
 
+Describe the differences between forks, 
+clones, and branches. When would you use 
+one instead of another?
+
+	Clones:
+	Copy from Github to your local computer.
+	Forks:
+	It's like a clone, but done on Github.
+	Credit to the original author is intact.
+	Branches:
+
 	
