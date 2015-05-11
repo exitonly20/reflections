@@ -19,3 +19,32 @@ you have one commit per logical change?
 	1. Add files using "git add <filename1> <filename2> ..."
 	2. Use "git diff --staged" to see differences between production
 	and the files that are in the staging area
+
+What are some situations when branches would be 
+helpful in keeping your history organized? 
+How would branches help?
+
+	Keep work organized so can switch to something else.
+	Keep work organized when working with others. Multiple
+	people can make fixes without stuff changing, then they
+	can merge branches later.
+	Keep work organized when must make bug fix before going
+	back to new feature.
+
+How do the diagrams help you visualize the branch structure?
+
+	The question explains itself.
+	The diagrams help because the branch structure can
+	be visualized.
+
+What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+
+	Result of merging 2 branches is all changes are combined.
+	
+What are the pros and cons 
+of Git’s automatic merging vs. always doing merges manually?
+
+	Automatic merging does everything except when
+	there is a conflict. At that point, Auto becomes
+	Manual merging.
